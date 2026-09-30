@@ -1,0 +1,9 @@
+{
+  "name": "JARVIS ARMv7 Phone Voice AI",
+  "description": "Jarvis voice-controlled phone automation system running on simulated 32-bit ARM (armeabi-v7a) architecture with automated WhatsApp messaging, hardware controls, human-like bilingual reasoning, and autonomous proactive speech.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
